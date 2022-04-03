@@ -4,7 +4,6 @@ public Class Sum
   {
    int a=9;
    int b=10;
-   int c=11;
-   System.out.println(a+b+c);
+   System.out.println(a+b);
   }
 }
